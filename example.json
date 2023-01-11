@@ -1,4 +1,13 @@
 {
     "title": "Example JSON Revision",
-    "description": "My attempt to remember everything from the LinkedIn JSON tutorial and combine that with git practice."
+    "description": "My attempt to remember everything from the LinkedIn JSON tutorial and combine that with git practice.",
+    "objectives": [
+        "objects",
+        "arrays",
+        "schemas",
+        "implement into html"
+    ],
+    "completed": false,
+    "date-started": "11/01/2023",
+    "number-field": 2
 }
