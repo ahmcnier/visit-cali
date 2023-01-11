@@ -1,0 +1,31 @@
+[
+    {
+        "Fiat": [
+            "500",
+            "Panda",
+            "500L"
+        ]
+    },
+    {
+        "Audi": [
+            "A3",
+            "Q3",
+            "TT",
+            "Quattro",
+            "A1"
+        ]
+    },
+    {
+        "Kia": "Picanto"
+    },
+    {
+        "Ford":
+        [
+            "Focus",
+            "Mondeo",
+            "F-500",
+            "Fiesta",
+            "Kuga"
+        ]
+    }
+]
